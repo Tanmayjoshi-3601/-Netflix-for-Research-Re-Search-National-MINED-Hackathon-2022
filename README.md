@@ -1,0 +1,2 @@
+# -Netflix-for-Research-Re-Search-National-MINED-Hackathon-2022
+"Netflix for Research" is an AI-driven research paper recommendation system, employing Word2Vec, TFIDF, and Autoencoders for personalized suggestions. Born from the National MINED Hackathon 2022, it offers a user-friendly interface for effortless academic exploration. Dive into a diverse world of knowledge, tailored to your interests.
